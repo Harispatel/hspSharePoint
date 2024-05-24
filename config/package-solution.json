@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hsp-share-point-client-side-solution",
+    "id": "0194c837-411f-4918-b735-dcadab354e52",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "hspSharePoint description"
+      },
+      "longDescription": {
+        "default": "hspSharePoint description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "hsp-share-point Feature",
+        "description": "The feature that activates elements of the hsp-share-point solution.",
+        "id": "e0f8f2fb-7eeb-4720-bb9c-6d3dcfbd367b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/hsp-share-point.sppkg"
+  }
+}

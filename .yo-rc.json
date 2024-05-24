@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "hsp-share-point",
+    "libraryId": "0194c837-411f-4918-b735-dcadab354e52",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "hspSharePoint",
+    "solutionShortDescription": "hspSharePoint description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
